@@ -2,7 +2,8 @@ Jane Street Puzzles
 ======
 <a href="https://www.patrickellis.dev/all/projects/janestreet-puzzles" target="_blank"> View the project page on my site </a>
 ## Description
-ChessAlgo is a computer-vision driven Chess AI that processes visual data to parse a chess position on the screen, detect moves played in sequence by an opponent, and calculate the optimal response in an adjustable time period up to and including instantaneous play. It is capable of fully autonomous operation and uses a mouse handler API to respond to events independently of a human user. 
+This repository serves to hold all of my solutions to the Jane Street Puzzles that I have solved thus far. I absolutely love how challenging (and therefore rewarding) some of these puzzles have been, and as of the time of writing this comment (2021/04) I am continuing to adore the process of tackling some of the more difficult problems hosted by this hedge fund. 
+
 <p align="center">
   <img src = "https://github.com/patrickellis/Portfolio/blob/master/images/docs/chessalgohuman.gif" style="padding-top:100px; width:350px;height:350px;" width="650" />
 </p>

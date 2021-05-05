@@ -1,4 +1,4 @@
-Chess Algo [![GitHub version](https://badge.fury.io/gh/patrickellis%2Fchessalgo.svg)](https://badge.fury.io/gh/patrickellis%2Fchessalgo)
+Jane Street Puzzles
 ======
 <a href="https://www.patrickellis.dev/all/projects/chessalgo" target="_blank"> View the project page on my site </a>
 ## Description
